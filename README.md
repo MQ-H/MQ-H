@@ -1,5 +1,7 @@
 ## Hi there 👋
-i'm
+I'm ( ` ･ ω ･ ´ ).Yes, this is my name. welcome to my homepage
+
+I don't know much about this, sorry for the offense
 
 <!--
 **MQ-H/MQ-H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
