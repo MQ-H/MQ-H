@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 The number of visits to my Page
-![Visitor Count](https://profile-counter.glitch.me/MQ-H/count.svg)
+![](https://komarev.com/ghpvc/?username=MQ-H&base=1000)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MQ-H&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
 
