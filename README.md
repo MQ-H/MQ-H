@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  ![Visitor Count](https://profile-counter.glitch.me/MQ-H/count.svg)
+The number of visits to my Page
+![Visitor Count](https://profile-counter.glitch.me/MQ-H/count.svg)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MQ-H)](https://github.com/anuraghazra/github-readme-stats)
 
