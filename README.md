@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 My Page visits:
 ![Visitor Count](https://profile-counter.glitch.me/MQ-H/count.svg)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MQ-H&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MQ-H&locale=cn)](https://github.com/MQ-H/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MQ-H&layout=compact&locale=cn)](https://github.com/MQ-H/github-readme-stats)
 
