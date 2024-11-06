@@ -18,7 +18,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 My Page visits:
+<!--
 ![Visitor Count](https://profile-counter.glitch.me/MQ-H/count.svg)
+-->
+<a href="https://github.com/MQ-H" target="_blank"><img src="https://count.getloli.com/get/@MQ-H?theme=asoul" alt="Visitor Counter"></a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MQ-H&locale=cn)](https://github.com/MQ-H/github-readme-stats)
 
